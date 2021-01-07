@@ -1,0 +1,21 @@
+[debug] [2020-12-22T01:35:33.875Z] ----------------------------------------------------------------------
+[debug] [2020-12-22T01:35:33.879Z] Command:       C:\Users\HP\COVID-~1\src\firebase-tools-instant-win.exe C:\Users\HP\.cache\firebase\tools\lib\node_modules\firebase-tools\lib\bin\firebase init
+[debug] [2020-12-22T01:35:33.879Z] CLI Version:   9.0.1
+[debug] [2020-12-22T01:35:33.880Z] Platform:      win32
+[debug] [2020-12-22T01:35:33.880Z] Node Version:  v12.18.1
+[debug] [2020-12-22T01:35:33.881Z] Time:          Mon Dec 21 2020 17:35:33 GMT-0800 (Pacific Standard Time)
+[debug] [2020-12-22T01:35:33.882Z] ----------------------------------------------------------------------
+[debug] [2020-12-22T01:35:33.882Z] 
+[debug] [2020-12-22T01:35:33.892Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-12-22T01:35:33.892Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\HP\covid-19-tracker\src
+
