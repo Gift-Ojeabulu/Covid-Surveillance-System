@@ -31,7 +31,7 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 
 ## 🙋‍♀️ Authors
 
-[Tasmia Rahman](https://github.com/Gift-Ojeabulu)
+[https://www.linkedin.com/in/gift-ojabu/](https://github.com/Gift-Ojeabulu)
 
 
 # What I Learned
