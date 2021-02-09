@@ -31,7 +31,13 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 
 ## 🙋‍♀️ Authors
 
-[https://www.linkedin.com/in/gift-ojabu/](https://github.com/Gift-Ojeabulu)
+<p align='center'>
+<a href="mailto:giftoscart@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gift-ojabu/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 
 # What I Learned
