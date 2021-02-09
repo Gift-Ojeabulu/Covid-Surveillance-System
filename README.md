@@ -8,8 +8,9 @@ To create a Covid-19 Tracker Application
     * Material UI
     * CSS
     * Javascript
+    * Firebase
     
-<b>Covid-19 tracker Use Case Video with <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code> && <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code><b>
+<b><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code><b>
 
 
 ![](https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif)
