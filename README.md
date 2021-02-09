@@ -4,6 +4,16 @@
 ![](https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif)
 
 
+# What I Learned
+<ul>
+    <li> Using react and fetch calls to dynamically update UI.</li>
+    <li> Reinforced knowledge of API integration. </li>
+    <li> Leaflet.js / Chart.js libraries were used to create the interactive map and  
+    responsive line graph components </li>
+    <li> CSS and Material-UI libraries were used to design animations and web layout. </li>
+</ul>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
