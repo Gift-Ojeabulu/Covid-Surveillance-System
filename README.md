@@ -1,7 +1,7 @@
 # COVID-19 TRACKER
 
 ## ✅ Goal
-To create a Covid-19 Tracker Application
+To create an Application that tracks Covid cases in different Countries
 
 ## ✅ Tech stack!
 	* React
@@ -14,6 +14,10 @@ To create a Covid-19 Tracker Application
 
 
 ![](https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif)
+
+## ✅ MOTIVATION
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
 
 
 ## ✅ What does it do? 
