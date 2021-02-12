@@ -10,8 +10,6 @@ To create an Application that tracks Covid cases in different Countries
     * Javascript
     * Firebase
     
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6762296882732535808" height="1192" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-    
 <b><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code><b>
 
 
@@ -42,7 +40,7 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 <a href="mailto:giftoscart@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gift-ojabu/">
+  <a href="https://www.linkedin.com/posts/gift-ojabu_covid19awareness-webappdevelopment-datascience-activity-6762296972004073473-cz47">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
