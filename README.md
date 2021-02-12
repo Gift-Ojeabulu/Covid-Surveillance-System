@@ -10,6 +10,8 @@ To create an Application that tracks Covid cases in different Countries
     * Javascript
     * Firebase
     
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6762296882732535808" height="1192" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+    
 <b><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code><b>
 
 
