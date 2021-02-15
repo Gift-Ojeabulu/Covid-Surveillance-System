@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Portfolio%20Project&fontSize=90)
+
+
+
 # COVID-19 TRACKER
 
 ## ✅ Goal
@@ -12,7 +16,7 @@ To create an Application that tracks Covid cases in different Countries
     
 <b><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code><b>
 	
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Portfolio%20Project&fontSize=90)
+
 
 
 ![](https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif)
