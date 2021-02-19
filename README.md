@@ -58,6 +58,7 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
     <li> Leaflet.js / Chart.js libraries were used to create the interactive map and  
     responsive line graph components </li>
     <li> CSS and Material-UI libraries were used to design animations and web layout. </li>
+    <li> Deployment with Firebase. </li>
 </ul>
 
 
