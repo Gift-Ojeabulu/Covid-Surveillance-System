@@ -1,5 +1,5 @@
 
-# COVID-19 TRACKER
+# COVID-19 SURVEILLANCE SYSTEM
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Covid-19%20Tracker&fontSize=90)
@@ -22,21 +22,17 @@ To create an Application that tracks Covid cases in different Countries
 ![](https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif)
 
 ## ✅ MOTIVATION
-Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
-Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.As the virus that causes COVID-19 began to spread from person to person in communities (community transmission),Medical scientists needed to track the disease and try to slow its spread. To do so, The need to for me to build a real-time disease tracker for Covid-19 as a Data Scientist came in thought. Having a case definition helps to make sure cases are counted the same way everywhere. COVID-19 became a nationally notifiable disease, meaning that health departments are required to report cases of COVID-19. Medical Scientists can use chart abstractions to learn who is more likely to become severely ill, what medical care patients have received, and if patients have recovered.
 
 
 ## ✅ What does it do? 
 It shows Live cases of people with Coronavirus, cases of recovery, and Death Cases for different Countries.
 
+
+## ✅ Features
 1. Real-time Cases of Countries Covid-19 cases(Ascending order)This part Update Every 10 Minutes.
 2. Line Graph (Time Series Analysis)trend for Coronavirus worldwide cases.
 3. Map Representation of Covid 19 Cases in different countries.
-
-## ✅ Features
-1. Tabular Graph.
-2. Line Graph (Time Series Analysis).
-3. Map Graph.
 
 
 
