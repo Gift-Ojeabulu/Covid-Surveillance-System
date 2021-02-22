@@ -2,7 +2,7 @@
 # SYNCHRONAL COVID-19 SURVEILLANCE SYSTEM
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Covid-19-Surveillance%20System&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Covid-Surveillance%20System&fontSize=60)
 
 ## ✅ Goal
 The goal of this project is to create a Disease surveillance system that can be used to monitor the burden of a disease over time, detect changes in disease occurrence (e.g., outbreaks), determine risk factors for the disease and populations at greatest risk, guide immediate public health actions for individual patients or the community so that appropriate action can be taken to either prevent or stop further spread of disease.
