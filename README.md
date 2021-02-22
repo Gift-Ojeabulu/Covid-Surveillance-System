@@ -5,8 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Covid-19%20Tracker&fontSize=90)
 
 ## ✅ Goal
-To create an Application that tracks Covid cases in different Countries
-
+The goal of this project is to create a Disease surveillance system that can be used to monitor the burden of a disease over time, detect changes in disease occurrence (e.g., outbreaks), determine risk factors for the disease and populations at greatest risk, guide immediate public health actions for individual patients or the community so that appropriate action can be taken to either prevent or stop further spread of disease.
 ## ✅ Tech stack!
 	* React
     * Material UI
