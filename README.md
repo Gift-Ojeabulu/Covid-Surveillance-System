@@ -1,5 +1,5 @@
 
-# REAL-TIME COVID-19 SURVEILLANCE SYSTEM
+# SYNCHRONAL COVID-19 SURVEILLANCE SYSTEM
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Covid-19%20Tracker&fontSize=90)
