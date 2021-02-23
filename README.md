@@ -1,5 +1,5 @@
 
-# SYNCHRONAL COVID-19 SURVEILLANCE SYSTEM
+# SYNCHRONOUS COVID-19 SURVEILLANCE SYSTEM
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Covid-Surveillance%20System&fontSize=60)
