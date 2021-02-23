@@ -2,10 +2,10 @@
 # SYNCHRONOUS COVID-19 SURVEILLANCE SYSTEM
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Covid-Surveillance%20System&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=COVID-Surveillance%20System&fontSize=60)
 
 ## ✅ Goal
-The goal of this project is to create a Disease Surveillance System that can be used to monitor the burden of a disease over time, detect changes in disease occurrence (e.g., outbreaks), determine risk factors for the disease and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of disease.
+The goal of this project is to create a COVID-19 Surveillance System that can be used to monitor the burden of a COVID over time, detect changes in COVID occurrence (e.g., outbreaks), determine risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID.
 ## ✅ Tech stack!
 	* React
     * Material UI
