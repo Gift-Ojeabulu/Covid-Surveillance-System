@@ -20,6 +20,9 @@ The goal of this project is to create a COVID-19 Surveillance System that can be
 
 ![](https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif)
 
+* [Link to Project on LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_covid19awareness-webappdevelopment-datascience-activity-6762296972004073473-cz47)
+* [Link to Complete Usecase Video on Youtube](https://www.linkedin.com/posts/gift-ojabu_covid19awareness-webappdevelopment-datascience-activity-6762296972004073473-cz47)
+
 ## ✅ MOTIVATION
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered Virus.Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.As the virus that causes COVID-19 began to spread from person to person in communities (community transmission),Medical scientists needed to track the disease and try to slow its spread. To do so, The need to build a system that track this disease as a Data Scientist came into thought.  COVID-19 became a nationally notifiable disease, meaning that health departments are required to report cases of COVID-19. Medical Scientists can use chart abstractions to learn who is more likely to become severely ill, what medical care patients have received, and if patients have recovered.
 
