@@ -21,7 +21,6 @@ The goal of this project is to create a COVID-19 Surveillance System that can be
 ![](https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif)
 
 * [Link to Project on LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_covid19awareness-webappdevelopment-datascience-activity-6762296972004073473-cz47)
-* [Link to Complete Usecase Video on Youtube](https://www.linkedin.com/posts/gift-ojabu_covid19awareness-webappdevelopment-datascience-activity-6762296972004073473-cz47)
 * [Link to live Web App](https://covid-world-tracker.web.app/)
 
 ## ✅ MOTIVATION
