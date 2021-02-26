@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=COVID-Surveillance%20System&fontSize=60)
 
 ## ✅ Goal
-The goal of this project is to create a COVID-19 Surveillance System that can be used to monitor the burden of  COVID over time, detect changes in COVID occurrence (e.g., outbreaks), determine risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID.
+The goal of this project is to create a COVID-19 Surveillance System that can be used to monitor the burden of  COVID over time, detect changes in COVID occurrence (e.g., outbreaks), determine risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID.In summary, This App measures the transition of Covid-19 with time
 ## ✅ Tech stack!
 	* React
     * Material UI
