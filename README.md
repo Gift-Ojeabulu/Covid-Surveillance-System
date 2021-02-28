@@ -32,7 +32,9 @@ THIS WILL GIVE INSIGHT ON :
 * [LIVE WEB APPLICATION](https://covid-world-tracker.web.app/)
 
 ## ✅ MOTIVATION
-Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered Virus.Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.As the virus that causes COVID-19 began to spread from person to person in communities (community transmission),Medical scientists needed to track the disease and try to slow its spread. To do so, The need to build a system that track this disease as a Data Scientist came into thought.  The Question popped up in my head:
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered Virus.Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.As the virus that causes COVID-19 began to spread from person to person in communities (community transmission),Medical scientists needed to track the disease and try to slow its spread. To do so, The need to build a system that track this disease as a Data Scientist came into thought.  
+
+The Question popped up in my head:
 
 How Can I build Create a solution that checks the transition of Covid in the world?
 * That was what brought about the motivation behind this project. Medical Scientists can use chart abstractions to learn countries more likely to become severely ill, what medical care patients have received, and if patients have recovered.
