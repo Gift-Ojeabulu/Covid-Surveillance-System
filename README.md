@@ -30,6 +30,8 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 ## ✅ What does it do? 
 It shows Live cases of people with Coronavirus, cases of recovery, and Death Cases for different Countries.
 
+## ✅ Why Web Application and not Dashboard?
+
 
 ## ✅ Features
 1. Real-time Cases of Countries Covid-19 cases(Ascending order)This part Update Every 10 Minutes.
