@@ -53,16 +53,6 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 
 
 
-## 🙋‍♀️ Authors
-
-<p align='center'>
-<a href="mailto:giftoscart@gmail.com">
-  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/posts/gift-ojabu_covid19awareness-webappdevelopment-datascience-activity-6762296972004073473-cz47">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-
 
 # What I Learned
 <ul>
