@@ -43,7 +43,7 @@ How Can I build Create a solution that checks the transition of Covid in the wor
 ## ✅ What does it do? 
 It shows Live cases of people with Coronavirus, cases of recovery, and Death Cases for different Countries.
 
-## ✅ Why Web Application and not a Traditional Dashboard?
+
 
 
 ## ✅ Features
