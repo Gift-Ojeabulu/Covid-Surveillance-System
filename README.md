@@ -26,7 +26,10 @@ THIS WILL GIVE INSIGHT ON :
 
 
 
-![](https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif)
+
+
+
+<img src="https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif" width="760" height="400"/>
 
 * [PROJECT ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_covid19awareness-webappdevelopment-datascience-activity-6762296972004073473-cz47)
 * [LIVE WEB APPLICATION](https://covid-world-tracker.web.app/)
