@@ -40,7 +40,7 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 The Question popped up in my head - 
 
 How Can I build Create a solution that checks the transition of Covid in the world?
-* That was what brought about the motivation behind this project. Medical Scientists can use chart abstractions to learn countries more likely to become severely ill, what medical care patients have received, and if patients have recovered.
+* That was what brought about the motivation to build this project. Medical Scientists can use chart abstractions to learn countries more likely to become severely ill, what medical care patients have received, and if patients have recovered.
 
 
 ## ✅ What does it do? 
