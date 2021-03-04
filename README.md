@@ -9,8 +9,8 @@ The goal of this project is to create a COVID-19 Surveillance System that can be
 
 THIS WILL GIVE INSIGHT ON :
 
-* Top countries with Covid-19 cases.
-* Time Series Transition on Covid Cases.
+* Top & Least countries with Covid-19 cases.
+* Time Series transition of Covid Cases.
 * Total Number of Recovered, Death, and Present cases.
 
 
