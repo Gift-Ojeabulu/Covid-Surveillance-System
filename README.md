@@ -1,5 +1,4 @@
 
-# RESPONSIVE COVID-19 SYNCHRONOUS SURVEILLANCE SYSTEM
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=COVID-Surveillance%20System&fontSize=60)
