@@ -6,7 +6,7 @@
 ## ✅ Goal
 The goal of this project is to create a COVID-19 Surveillance System that can be used to monitor the burden of  COVID over time, detect changes in COVID occurrence (e.g., outbreaks), determine risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID. A useful Application of Data Science/Machine learning for Problem- Solving in Healthcare industry.
 
-## ✅This Will give insight on :
+## ✅This will give insight on :
 
 * Top & Least countries with Covid-19 cases.
 * Time Series transition of Covid Cases.
