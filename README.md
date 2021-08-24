@@ -1,10 +1,10 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=COVID-Surveillance%20System&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=COVID-Surveillance%20App&fontSize=60)
 
 ## ✅ Goal
-The goal is to create a COVID-19 Surveillance System that can be used to monitor  COVID over time, detect changes in COVID occurrence (e.g., outbreaks), determine risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID. A useful Application of Data Science/Machine learning for Problem- Solving in Healthcare industry.
+The goal is to create a COVID-19 Surveillance App that can be used to monitor  COVID over time, detect changes in COVID occurrence (e.g., outbreaks), determine risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID. A useful Application of Data Science/Machine learning for Problem- Solving in Healthcare industry.
 
 ## ✅This will give insight on :
 
