@@ -30,7 +30,7 @@ The goal is to create a COVID-19 Surveillance App that can be used to monitor  C
 
 <img src="https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif" width="550" height="300"/>
 
-## PROJECT OVERVIEW ON LINKEDIN
+## ✅ OVERVIEW ON LINKEDIN
 * [PROJECT ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_covid19awareness-webappdevelopment-datascience-activity-6762296972004073473-cz47)
 
 
@@ -57,7 +57,7 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 
 
 
-# WHAT I LEARNT 
+## ✅ WHAT I LEARNT 
 <ul>
     <li> Using react and fetch calls to dynamically update UI.</li>
     <li>knowledge of API integration. </li>
@@ -67,11 +67,11 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
     <li> Deployment with Firebase. </li>
 </ul>
 
-# DEPLOYMENT 🚀
+## ✅ DEPLOYMENT 🚀
 
 #### This website is deployed at [FIREBASE](https://www.firebase.com/)
 #### You can access it [LIVE WEB APP](https://covid-world-tracker.web.app/)
-#### Note: The website may take a few minutes to load sometimes, as the server may be in hibernate state
+#### Note: The website may take a few seconds to load sometimes, as the server may be in hibernate state
 
 
 
