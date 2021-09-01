@@ -14,10 +14,10 @@ The goal is to create a COVID-19 Surveillance App that can be used to monitor  C
 
 
 ## ✅ TECH STACK!
-	* React
+	* ReactJS
     * Material UI
     * CSS
-    * Javascript
+    * COVID API
     * Firebase
     
 <b><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code><b>
@@ -28,10 +28,11 @@ The goal is to create a COVID-19 Surveillance App that can be used to monitor  C
 
 
 
-<img src="https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif" width="760" height="390"/>
+<img src="https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif" width="400" height="300"/>
 
+## Other Links
 * [PROJECT ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_covid19awareness-webappdevelopment-datascience-activity-6762296972004073473-cz47)
-* [LIVE WEB APPLICATION](https://covid-world-tracker.web.app/)
+
 
 ## ✅ MOTIVATION
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered Virus.Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.As the virus that causes COVID-19 began to spread from person to person in communities (community transmission),Medical scientists needed to track the disease and try to slow its spread. To do so, The need to build a system that track this disease as a Data Scientist came into thought.  
@@ -42,7 +43,7 @@ How Can I create a solution that checks the transition of Covid in the world?
 * That was what brought about the motivation to build this project. Medical Scientists can use chart abstractions to learn countries more likely to become severely ill, what medical care patients have received, and if patients have recovered.
 
 
-## ✅ What does it do? 
+## ✅ WHAT DOES IT DO? 
 It shows Live cases of people with Coronavirus, cases of recovery, and Death Cases for different Countries.
 
 
@@ -56,7 +57,7 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 
 
 
-# What I Learnt
+# WHAT I LEARNT 
 <ul>
     <li> Using react and fetch calls to dynamically update UI.</li>
     <li>knowledge of API integration. </li>
@@ -65,6 +66,15 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
     <li> CSS and Material-UI libraries were used to design animations and web layout. </li>
     <li> Deployment with Firebase. </li>
 </ul>
+
+# DEPLOYMENT 🚀
+
+#### This website is deployed at [FIREBASE](https://www.firebase.com/)
+#### You can access it [LIVE WEB APP](https://covid-world-tracker.web.app/)
+#### Note: The website may take a few minutes to load sometimes, as the server may be in hibernate state
+
+
+
 
 
 
