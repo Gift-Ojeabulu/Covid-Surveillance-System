@@ -3,17 +3,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=COVID-Surveillance%20App&fontSize=60)
 
-## ✅ Goal
+## ✅ SOLUTION 
 The goal is to create a COVID-19 Surveillance App that can be used to monitor  COVID over time, detect changes in COVID occurrence (e.g., outbreaks), determine risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID. A useful Application of Data Science/Machine learning for Problem- Solving in Healthcare industry.
 
-## ✅This will give insight on :
+## ✅ INSIGHT 
 
 * Top & Least countries with Covid-19 cases.
 * Time Series transition of Covid Cases.
 * Total Number of Recovered, Death, and Present cases.
 
 
-## ✅ Tech stack!
+## ✅ TECH STACK!
 	* React
     * Material UI
     * CSS
@@ -48,7 +48,7 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 
 
 
-## ✅ Features
+## ✅ FEATURES 
 1. Real-time Cases of Countries Covid-19 cases(Ascending order)This part Update Every 10 Minutes.
 2. Line Graph (Time Series Analysis)trend for Coronavirus worldwide cases.
 3. Map Representation of Covid 19 Cases in different countries.
@@ -56,7 +56,7 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 
 
 
-# What I Learned
+# What I Learnt
 <ul>
     <li> Using react and fetch calls to dynamically update UI.</li>
     <li>knowledge of API integration. </li>
