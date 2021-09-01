@@ -28,9 +28,9 @@ The goal is to create a COVID-19 Surveillance App that can be used to monitor  C
 
 
 
-<img src="https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif" width="400" height="300"/>
+<img src="https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif" width="550" height="300"/>
 
-## Other Links
+## PROJECT OVERVIEW ON LINKEDIN
 * [PROJECT ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_covid19awareness-webappdevelopment-datascience-activity-6762296972004073473-cz47)
 
 
