@@ -24,7 +24,7 @@ The goal is to create a COVID-19 Surveillance App that can be used to monitor  C
 	
 
 
-
+## ✅ VIDEO DEMO
 
 
 
