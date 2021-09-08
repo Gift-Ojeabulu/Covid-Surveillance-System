@@ -70,8 +70,9 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 ## ✅ DEPLOYMENT 🚀
 
 #### This website is deployed at [FIREBASE](https://www.firebase.com/)
+	
 #### You can access it [LIVE WEB APP](https://covid-world-tracker.web.app/)
-#### Note: The website may take a few seconds to load sometimes, as the server may be in hibernate state
+
 
 
 
