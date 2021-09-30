@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=COVID-Surveillance%20App&fontSize=60)
 
-## ✅ Project Organization
+## ✅ PROJECT ORGANIZATION(SOON TO BE UPDATED)
 ------------
 
     ├── LICENSE
