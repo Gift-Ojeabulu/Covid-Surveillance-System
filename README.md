@@ -81,7 +81,7 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 
 
 ## ✅ PROJECT ORGANIZATION
-------------
+
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
